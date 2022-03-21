@@ -3,8 +3,6 @@
   "description": "Performant, flexible and extensible forms library for React Hooks",
   "version": "7.28.0",
   "main": "src/index.ts",
-  "source": "src/index.ts",
-  "types": "dist/index.d.ts",
   "sideEffects": false,
   "files": [
     "dist",
